@@ -1,0 +1,25 @@
+{
+  "name": "axis/class-surgeon",
+  "type": "library",
+  "description": "Library to manipulate class declaration source code",
+
+  "keywords": ["axis", "class", "manipulator", "code", "source", "modify"],
+  "homepage": "https://github.com/e1himself/class-surgeon",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Ivan Voskoboynyk",
+      "email": "ioann.voskoboynyk@gmail.com",
+      "homepage": "https://github.com/e1himself/"
+    }
+  ],
+
+  "require": {
+    "php": ">=5.2.0"
+  },
+
+  "autoload": {
+    "psr-0": { "Awg\\ClassSurgeon\\": "" }
+  }
+}
