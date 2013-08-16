@@ -166,7 +166,7 @@ class Spider
    */
   public function goBackFor($what)
   {
-    $this->newInstruction('LookBackwardForToken', $what);
+    $this->newInstruction('GoBackwardForToken', $what);
     return $this;
   }
 
