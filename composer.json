@@ -20,6 +20,6 @@
   },
 
   "autoload": {
-    "psr-0": { "Awg\\ClassSurgeon\\": "" }
+    "psr-0": { "Axis\\ClassSurgeon\\": "" }
   }
 }
